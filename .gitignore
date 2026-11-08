@@ -1,3 +1,6 @@
 drills.jsonl
 *.sha256
 audit-*.md
+
+# Claude Code per-user permissions (may contain secrets)
+.claude/settings.local.json
